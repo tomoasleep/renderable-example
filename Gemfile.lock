@@ -96,6 +96,8 @@ GEM
       reline (>= 0.2.7)
     jbuilder (2.11.4)
       activesupport (>= 5.0.0)
+    jsbundling-rails (1.0.0)
+      railties (>= 6.0.0)
     libv8-node (16.10.0.0-x86_64-linux)
     loofah (2.13.0)
       crass (~> 1.0.2)
@@ -213,6 +215,7 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
+  jsbundling-rails (~> 1.0)
   mini_racer
   puma (~> 5.0)
   rails (~> 7.0.0)

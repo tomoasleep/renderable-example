@@ -73,3 +73,5 @@ end
 
 gem "react_on_rails", "= 12.4"
 gem "mini_racer", platforms: :ruby
+
+gem "jsbundling-rails", "~> 1.0"
